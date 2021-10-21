@@ -1,2 +1,2 @@
-# Projekt-X-COM
+# Projekt X-COM
 Zabijanie kosmitów (bez litości). B)))))
